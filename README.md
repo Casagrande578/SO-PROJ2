@@ -1,8 +1,10 @@
 # SO-PROJ2
 ## Gupo:
-Enzo Galeazzo Casagrande - 32209606
-Marcos Carvalho Junior  - 32234120
-Rafael Marques Cruz Russo - 32220294
+Enzo Galeazzo Casagrande - 32209606;
+
+Marcos Carvalho Junior  - 32234120;
+
+Rafael Marques Cruz Russo - 32220294;
 
 ## Código
 Declaração de constantes, estruturas e funções do ambiente;
